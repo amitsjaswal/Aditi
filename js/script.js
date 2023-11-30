@@ -52,5 +52,5 @@ const navEl = document.querySelector('.navbar');
             },
         }
 
-        Object.assign(swiperEl, params)
-        swiperEl.initialize();
+        // Object.assign(swiperEl, params)
+        // swiperEl.initialize();
